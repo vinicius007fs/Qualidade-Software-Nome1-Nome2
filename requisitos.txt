@@ -1,1 +1,15 @@
+ESPECIFICAÇÃO DE REQUISITOS - PROJETO QUALIDADE DE SOFTWARE
 
+REQUISITOS FUNCIONAIS (O que o sistema faz)
+[RF01] - O sistema deve permitir que o utilizador crie uma conta com e-mail e palavra-passe.
+[RF02] - O sistema deve permitir a alteração de dados do perfil após o login.
+[RF03] - O sistema deve gerar um histórico de atividades realizadas pelo utilizador.
+[RF04] - O sistema deve permitir a recuperação de palavra-passe através do e-mail.
+
+REQUISITOS NÃO FUNCIONAIS (Qualidades do sistema)
+[RNF01] - O sistema deve responder a qualquer comando em menos de 2 segundos (Performance).
+[RNF02] - A interface deve ser adaptável a dispositivos móveis (Responsividade).
+[RNF03] - As palavras-passe devem ser armazenadas de forma encriptada na base de dados (Segurança).
+
+REQUISITOS DE AMBIENTE
+- O sistema deve ser compatível com os navegadores Chrome, Firefox e Edge.
