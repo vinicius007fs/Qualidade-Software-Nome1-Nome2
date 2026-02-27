@@ -1,1 +1,16 @@
+RELATÓRIO DE EXECUÇÃO - TRABALHO DE QUALIDADE DE SOFTWARE
+
+IDENTIFICAÇÃO Do TRIO
+- Integrante 1: [Vinicius Fonseca Santos]
+- Integrante 2: [Pablo Robert Soares Ribeiro]
+- Integrante 3: [Arthur Englys de Oliveira Dias] 
+RESUMO DAS ATIVIDADES
+Neste trabalho, realizamos as seguintes tarefas conforme o roteiro:
+- Criação e configuração do repositório público no GitHub.
+- Estruturação da documentação inicial (README.md).
+- Definição de requisitos funcionais e não funcionais (requisitos.txt).
+- Elaboração do plano de testes de software (plano_teste.txt).
+- Prática de versionamento utilizando comandos de commit, criação de branch e merge.
+CONCLUSÃO
+As metas de versionamento foram atingidas, garantindo a rastreabilidade das alterações e a organização dos artefatos de qualidade.
 
