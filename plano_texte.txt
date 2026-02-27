@@ -1,5 +1,3 @@
 PLANO DE TESTES - PROJETO QUALIDADE DE SOFTWARE. OBJETIVO: Validar as principais funcionalidades do sistema para garantir que os requisitos básicos estão sendo atendidos sem erros.
-
 CASOS DE TESTE ID: CT-01 Descrição: Validar cadastro de novo usuário com dados válidos. Procedimento: Acessar página de cadastro, preencher nome, e-mail e senha, clicar em salvar. Resultado Esperado: Usuário cadastrado com sucesso e redirecionado para o login. ID: CT-02 Descrição: Validar login com senha incorreta. Procedimento: Inserir e-mail válido e uma senha propositalmente errada. Resultado Esperado: O sistema deve exibir a mensagem "Usuário ou senha inválidos". ID: CT-03 Descrição: Verificar responsividade básica. Procedimento: Acessar o sistema através de um navegador mobile. Resultado Esperado: O layout deve ajustar-se corretamente à tela do telemóvel. 
-
 AMBIENTE DE TESTE - Navegadores: Google Chrome e Firefox. - Sistema Operativo: Windows 10 /
